@@ -1,0 +1,1 @@
+{"jobID":"8935764e-f1a1-2ecc-5e7c-77badbb827ef","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"sgerbothemanifest:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
